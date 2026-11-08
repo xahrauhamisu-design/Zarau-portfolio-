@@ -1,0 +1,7 @@
+name,funder,deadline,amount_usd,status
+Example Digital Rights Grant,Example Foundation A,2026-11-30,15000,open
+Example Open Source Fund,Example Foundation B,2026-12-15,25000,open
+Example Civic Tech Award,Example Foundation C,2027-01-31,10000,planned
+Example AI Ethics Fellowship,Example Foundation D,2027-03-15,40000,planned
+Example Community Fund (closed),Example Foundation E,2026-10-01,5000,submitted
+Example Row With Bad Date,Example Foundation F,2026-13-40,8000,open
